@@ -21,7 +21,7 @@ body{
     display: flex;
     flex-wrap: wrap;
     max-width: 1000px;
-    min-height: 700px;
+    min-height: 650px;
     background:  hsl(0, 0%, 100%);
     padding: 2rem;
     padding-right: 12rem;
@@ -31,7 +31,6 @@ body{
     display: flex;
     flex-wrap: wrap;
     padding: 1rem;
-    margin-top: 2.5rem;
 }
 .result{
     display: flex;
